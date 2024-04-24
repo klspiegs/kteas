@@ -1,0 +1,17 @@
+.nav {
+    margin-top: 2rem;
+    display: flex;
+    flex: 1 1 0%;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+body {
+    background-color: #e4d4ff;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+
+ul { list-style-type: "♡ "; }
